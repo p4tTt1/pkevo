@@ -1,0 +1,34 @@
+[
+    {
+        "Genome": [40, 101, 16, 82, 17, 39, 34, 69, 127, 107, 90, 115, 127, 22, 82, 102, 42, 126, 9, 50, 116, 12, 40, 110, 81, 102, 5, 106, 27, 120, 73, 113, 31, 19, 5, 3, 29, 59, 47, 55, 53, 88, 64, 4, 12, 12, 78, 116, 71, 95, 7, 111, 125, 106, 117, 45, 127, 28, 73, 64, 90, 78, 55, 105, 7, 62, 86, 43, 1, 89, 72, 61, 20, 58, 90, 113, 82, 64, 35, 67, 97, 48, 21, 32, 5, 103, 48, 110, 5, 19, 92, 27, 38, 26, 16, 9, 104, 39, 46],
+        "Phenotype": "AT(AHBA)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--TE(Macrolactamization)-Cyclization(3)"
+    },
+    {
+        "Genome": [40, 101, 110, 116, 5, 23, 96, 51, 59, 8, 96, 115, 127, 22, 82, 102, 42, 126, 9, 50, 116, 12, 120, 40, 110, 102, 5, 52, 27, 120, 73, 113, 31, 106, 19, 37, 3, 29, 59, 47, 55, 53, 88, 64, 4, 12, 12, 78, 113, 116, 71, 95, 125, 111, 15, 125, 106, 117, 45, 127, 28, 73, 117, 90, 79, 60, 105, 7, 62, 86, 43, 1, 89, 72, 61, 20, 58, 90, 6, 82, 64, 35, 67, 89, 120, 21, 32, 5, 48, 110, 5, 19, 2, 92, 27, 38, 26, 16, 9, 104, 39, 46],
+        "Phenotype": "AT(AHBA)-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--TE(Macrolactamization)-Cyclization(3)"
+    },
+    {
+        "Genome":[67, 97, 13, 89, 16, 27, 22, 39, 93, 75, 55, 112, 45, 10, 47, 101, 124, 48, 16, 72, 40, 115, 122, 25, 95, 54, 120, 38, 94, 113, 107, 27, 77, 79, 31, 116, 36, 119, 125, 106, 94, 34, 81, 98, 117, 51, 58, 89, 19, 56, 18, 1, 28, 114, 81, 127, 83, 30, 91, 72, 111, 87, 9, 98, 51, 54, 22, 57, 119, 126, 101, 114, 65, 69, 80, 51, 21, 52, 78, 97, 9, 70, 106, 106, 53, 68, 127, 37, 33, 7, 26, 66, 14, 28, 80, 79, 79], 
+        "Phenotype": "AT(Malonamyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--TE(Macrolactamization)-Cyclization(2)"
+    },
+    {
+        "Genome": [67, 97, 13, 89, 16, 27, 22, 39, 93, 75, 55, 112, 45, 10, 47, 47, 101, 84, 91, 72, 40, 101, 115, 122, 25, 122, 25, 95, 54, 118, 120, 83, 71, 54, 94, 13, 113, 107, 27, 77, 79, 31, 113, 114, 36, 119, 125, 106, 85, 94, 34, 98, 89, 19, 56, 44, 70, 112, 83, 28, 80, 114, 127, 83, 30, 91, 29, 73, 57, 57, 9, 79, 51, 54, 22, 57, 119, 101, 114, 65, 69, 80, 9, 88, 21, 78, 78, 70, 106, 70, 106, 26, 92, 62, 37, 33, 7, 26, 113, 66, 14, 84, 80, 4, 29], 
+        "Phenotype": "AT(Malonamyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Hydroxymalonyl)-ACP--TE(Macrolactamization)-Cyclization(2)"
+    },
+    {
+        "Genome": [51, 113, 63, 7, 34, 121, 52, 32, 13, 78, 43, 13, 100, 110, 72, 54, 73, 121, 86, 62, 51, 64, 44, 102, 121, 75, 51, 41, 16, 124, 50, 18, 92, 10, 13, 83, 23, 18, 108, 4, 57, 122, 2, 3, 101, 64, 80, 114, 37, 62, 50, 8, 122, 34, 86, 79, 111, 15, 115, 54, 69, 124, 45, 32, 52, 80, 71, 34, 60, 50, 16, 118, 45, 54, 8, 15, 48, 1, 62, 66, 70, 38, 68, 114, 63, 115, 28, 69, 38, 61, 53, 14, 11, 34, 57, 26, 89, 75, 100, 91, 63, 127], 
+        "Phenotype": "AT(Methoxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--TE(Macrolactamization)-Cyclization(3)"
+    },
+    {
+        "Genome": [51, 113, 63, 7, 34, 121, 52, 32, 1, 124, 78, 43, 92, 14, 72, 54, 73, 121, 86, 62, 70, 64, 44, 102, 121, 75, 51, 41, 16, 50, 18, 92, 10, 13, 83, 20, 37, 108, 59, 4, 57, 54, 105, 37, 3, 101, 64, 80, 36, 114, 37, 62, 50, 8, 122, 110, 86, 79, 111, 15, 115, 54, 69, 77, 45, 32, 52, 106, 80, 71, 60, 50, 16, 118, 45, 40, 8, 15, 48, 1, 62, 66, 70, 38, 68, 42, 63, 123, 28, 69, 38, 61, 53, 14, 11, 34, 57, 9, 26, 75, 4, 91, 63, 127], 
+        "Phenotype": "AT(Methoxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--TE(Macrolactamization)-Cyclization(3)"
+    },
+    {
+        "Genome": [2, 57, 73, 48, 6, 19, 45, 13, 16, 79, 6, 20, 83, 64, 95, 1, 89, 89, 15, 104, 65, 77, 89, 63, 81, 35, 81, 12, 0, 30, 96, 67, 73, 43, 92, 53, 119, 35, 118, 86, 76, 112, 46, 83, 111, 12, 11, 94, 76, 86, 8, 51, 4, 33, 75, 121, 109, 111, 112, 67, 110, 99, 22, 9, 69, 26, 107, 125, 68, 86, 119, 20, 110, 74, 27, 62, 52, 13, 107, 21, 98, 66, 4, 39, 44, 37, 26, 73, 107, 12, 9, 65, 81, 0, 80, 25, 124, 78],
+        "Phenotype": "AT(Acetoacetyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Hydrolysis)-Cyclization(3)" 
+    },
+    {
+        "Genome": [31, 69, 67, 82, 69, 22, 95, 41, 82, 79, 118, 13, 81, 46, 52, 123, 75, 6, 122, 73, 103, 72, 82, 27, 48, 103, 93, 127, 59, 14, 95, 67, 78, 47, 11, 68, 125, 49, 113, 36, 7, 49, 123, 123, 21, 6, 9, 81, 92, 13, 116, 51, 91, 2, 82, 36, 65, 43, 124, 35, 49, 37, 124, 45, 112, 75, 24, 90, 70, 47, 67, 35, 71, 76, 45, 67, 8, 110, 23, 8, 60, 63, 106, 50, 105, 38, 4, 57, 127, 127, 125, 13, 79, 12, 50, 56, 45, 95, 76, 73, 64],
+        "Phenotype": "AT(Malonamyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactamization)-Cyclization(2)"
+    }
+]

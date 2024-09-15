@@ -1,0 +1,28 @@
+<S> ::= <Loading_Module>--<Elongation_Modules>--<Termination_Module>
+<Loading_Module> ::= <PKS_Loading_Module>
+<Elongation_Modules> ::= <Elongation_Module> | <Elongation_Module>--<Elongation_Modules>
+<Elongation_Module> ::= <PKS_Elongation_Module>
+
+<PKS_Loading_Module> ::= <SAT_Domain>-<ACP_Domain>
+<SAT_Domain> ::= AT(<PKS_Starter_Units>)
+<PKS_Starter_Units> ::= <PKS_Starter_Unit>
+<PKS_Starter_Unit> ::= 2-Methylbutyryl | 3-Methylbutyryl | Acetoacetyl | Acetyl | AHBA | Benzoyl | Butyryl | Coumaroyl | Cyclohexylcarbonyl | Ethylmalonyl | Hexanoyl | Hydroxymalonyl | Isobutyryl | Malonamyl | Malonyl | Methoxymalonyl | Methylmalonyl | Propionyl
+<ACP_Domain> ::= ACP
+
+<PKS_Elongation_Module> ::= <PKS_Elongation_Domains>-<ACP_Domain> | <PKS_Elongation_Domains>-<PKS_Beta_Processing_Domains>-<ACP_Domain>
+<PKS_Elongation_Domains> ::= <KS_Domain>-<AT_Domain>
+<PKS_Beta_Processing_Domains> ::= <KR_Domain> | <KR_Domain>-<DH_Domain> | <KR_Domain>-<DH_Domain>-<ER_Domain>
+<KS_Domain> ::= KS
+<AT_Domain> ::= AT(<PKS_Extender_Units>)
+<PKS_Extender_Units> ::= <PKS_Extender_Unit>
+<PKS_Extender_Unit> ::= Aminomalonyl | Chlorethylmalonyl | Ethylmalonyl | Hydroxymalonyl | Malonyl | Methoxymalonyl | Methylmalonyl
+<KR_Domain> ::= KR
+<DH_Domain> ::= DH
+<ER_Domain> ::= ER
+
+<Termination_Module> ::= <TE_Domain> | <TE_Domain>-<Cyc_Spec>
+<TE_Domain> ::= TE(<Termination_Reactions>)
+<Termination_Reactions> ::= <Termination_Reaction>
+<Termination_Reaction> ::= Claisen | Hydrolysis | Macrolactamization | Macrolactonization
+<Cyc_Spec> ::= Cyclization(<Number_Or_Any>)
+<Number_Or_Any> ::= 1 | 2 | 3 

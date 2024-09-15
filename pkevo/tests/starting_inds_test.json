@@ -1,0 +1,6 @@
+[
+    {
+        "Genome": [95, 51, 26, 67, 73, 41, 5, 69, 35, 71, 83, 102, 97, 65, 55, 41, 37, 106, 31, 73, 102, 95, 34, 37, 85, 9, 16, 86, 104, 4, 56, 57, 103, 11, 126, 29, 74, 106, 6, 6, 12, 50, 56, 89, 78, 103, 13, 69, 71, 96, 126, 60, 98, 78, 101, 101, 122, 103, 127, 96, 53, 7, 69, 45, 14, 28, 49, 34, 123, 18, 15, 97, 97, 81, 90, 62, 57, 122, 14, 108, 21, 121, 103, 112, 61, 47, 78, 68, 51, 77, 47, 34, 108, 12, 29, 36, 49, 97, 84, 60],
+        "Phenotype": "AT(Benzoyl)-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Malonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--TE(Macrolactamization)"
+    }
+]

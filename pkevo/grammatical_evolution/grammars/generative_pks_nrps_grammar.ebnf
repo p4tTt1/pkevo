@@ -1,0 +1,73 @@
+Enzyme = Loading_Module DELM Elongation_Modules DELM Termination_Module
+       | Loading_Module DELM Elongation_Modules DELM Termination_Module DELM Cyc_Spec
+
+
+
+Loading_Module = PKS_Loading_Module
+               | NRPS_Loading_Module
+Elongation_Modules = Elongation_Module
+                   | Elongation_Module DELM Elongation_Module
+                   | Elongation_Module DELM Elongation_Module DELM Elongation_Module
+                   | Elongation_Modules DELM Elongation_Module
+Elongation_Module = PKS_Elongation_Module
+                  | NRPS_Elongation_Module
+Cyc_Spec = "Cyclization" OPN Number_Or_Any CLS
+Termination_Module = TE_Domain
+
+
+
+PKS_Loading_Module = SAT_Domain DELD ACP_Domain
+SAT_Domain = "AT" OPN PKS_Starter_Unit CLS
+ACP_Domain = "ACP"
+PKS_Starter_Unit = {pks_starter_units}
+
+NRPS_Loading_Module = SA_Domain DELD PCP_Domain
+SA_Domain = "A" OPN NRPS_Starter_Unit CLS
+PCP_Domain = "PCP"
+NRPS_Starter_Unit = {nrps_starter_units}
+
+
+
+PKS_Elongation_Module = KS_Domain DELD AT_Domain DELD ACP_Domain
+                      | KS_Domain DELD AT_Domain DELD KR_Domain DELD ACP_Domain
+                      | KS_Domain DELD AT_Domain DELD KR_Domain DELD DH_Domain DELD ACP_Domain
+                      | KS_Domain DELD AT_Domain DELD KR_Domain DELD Tailoring_Spec_Hydroxyl DELD ACP_Domain
+                      | KS_Domain DELD AT_Domain DELD KR_Domain DELD DH_Domain DELD ER_Domain DELD ACP_Domain
+KS_Domain = "KS" 
+AT_Domain = "AT" OPN PKS_Extender_Unit CLS
+PKS_Extender_Unit = {pks_extender_units}
+KR_Domain = "KR"
+DH_Domain = "DH"
+Tailoring_Spec_Hydroxyl = "Tailoring" OPN Tailoring_Hydroxyl_Groups CLS
+Tailoring_Hydroxyl_Groups = "Methyl"
+                          | "Carbamoyl"
+                          | SUGAR
+                          | "Epoxide"
+ER_Domain = "ER"
+SUGAR = "Glucose"
+      | "Galactose"
+
+NRPS_Elongation_Module = C_Domain DELD A_Domain DELD PCP_Domain
+C_Domain = "C"
+A_Domain = "A" OPN NRPS_Extender_Unit CLS
+NRPS_Extender_Unit = {nrps_extender_units}
+
+
+
+Number_Or_Any = "*" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
+
+
+
+TE_Domain = "TE" OPN Termination_Reaction CLS
+Termination_Reaction = "Claisen"
+                     | "Hydrolysis"
+                     | "Macrolactamization"
+                     | "Macrolactonization"
+
+
+
+DELM = "--"
+DELD = "-"
+DELR = ","
+OPN = "("
+CLS = ")"

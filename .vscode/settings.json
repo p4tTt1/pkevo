@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/talax/xtof/local/Mod/lib64"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/talax/xtof/local/Mod/lib64",
+        "./config"
+    ]
+}

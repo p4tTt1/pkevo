@@ -1,0 +1,28 @@
+<S> ::= <Loading_Module><__><El_Module><__><Poss_El><Poss_El><El_Process><Termination_Module> | <Loading_Module><__><El_Module><__><El_Module><__><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><Poss_El><El_Process><Termination_Module>
+
+<El_Process> ::= <Poss_El> | <Poss_El><El_Process>
+<Poss_El> ::= | <El_Module><__>
+
+<Loading_Module> ::= <SAT_Domain><_><ACP_Domain>
+<SAT_Domain> ::= AT(<Starter_Unit>)
+<Starter_Unit> ::= 2-Methylbutyryl | 3-Methylbutyryl | Acetoacetyl | Acetyl | AHBA | Benzoyl | Butyryl | Coumaroyl | Cyclohexylcarbonyl | Ethylmalonyl | Hexanoyl | Hydroxymalonyl | Isobutyryl | Malonamyl | Malonyl | Methoxymalonyl | Methylmalonyl | Propionyl
+<ACP_Domain> ::= ACP
+
+<El_Module> ::= <Elongation_Domains><_><ACP_Domain> | <Elongation_Domains><_><Beta_Processing_Domains><_><ACP_Domain>
+<Elongation_Domains> ::= <KS_Domain><_><AT_Domain>
+<Beta_Processing_Domains> ::= <KR_Domain> | <KR_Domain><_><DH_Domain> | <KR_Domain><_><DH_Domain><_><ER_Domain>
+<KS_Domain> ::= KS
+<AT_Domain> ::= AT(<Extender_Unit>)
+<Extender_Unit> ::= Aminomalonyl | Chlorethylmalonyl | Ethylmalonyl | Hydroxymalonyl | Malonyl | Methoxymalonyl | Methylmalonyl
+<KR_Domain> ::= KR
+<DH_Domain> ::= DH
+<ER_Domain> ::= ER
+
+#<Termination_Module> ::= <TE_Domain> | <TE_Domain><_>Cyclization(<Number>)
+<Termination_Module> ::= <TE_Domain>
+<TE_Domain> ::= TE(<Termination_Reaction>)
+<Termination_Reaction> ::= Claisen | Hydrolysis | Macrolactamization | Macrolactonization
+<Number> ::= 1 | 2 | 3 
+
+<__> ::= --
+<_> ::= -
