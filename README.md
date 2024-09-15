@@ -3,13 +3,17 @@
 Repo for Patrick Kaleta's MA thesis. Topic: Evolution & evaluation of polyketides
 that bind to specified target receptors. Builds on work previously done by Robert Haas.
 
+![PKevo workflow drawio](https://github.com/user-attachments/assets/5bf18582-c1b3-4590-9766-57594a5c8930)
+Diagram showing the basic workflow of PKevo and concepts involved. Find out more in the [Wiki](https://github.com/p4tTt1/pkevo/wiki).
+
+
 ## Installation and requirements
 ATM (version 0.4) this tool does not feature any fancy setup script, nor does it require an installation at all. In order to get it up and running, first make sure you're using Python 3.8 or higher. Then you can clone the repository onto your machine and install the 3rd-party packages found in the `requirements.txt` file (e.g. by installing them using pip: `pip install -r requirements.txt`).
 
 ## Running PKevo
 PKevo is intended to be used as a Command line tool.
 
-To run the application, you need to execute the provided `pkevo.py` file in a CLI window. `pkevo.py` serves as the main entry point of the application. The file is located inside the `/pkevo` directory and can be executed like this: `$ python pkevo.py [OPTIONAL SETTINGS]`. Parameters for the Grammatical Evolution can be set in `/pkevo/config/pkevo_config.py`, however the provided default settings should suffice for most needs. Some settings can be adjusted directly via the CLI execution command (see [wiki](https://krios.tbi.univie.ac.at/cheminfo/pkevo/-/wikis/Execution) for more information on that).
+To run the application, you need to execute the provided `pkevo.py` file in a CLI window. `pkevo.py` serves as the main entry point of the application. The file is located inside the `/pkevo` directory and can be executed like this: `$ python pkevo.py [OPTIONAL SETTINGS]`. Parameters for the Grammatical Evolution can be set in `/pkevo/config/pkevo_config.py`, however the provided default settings should suffice for most needs. Some settings can be adjusted directly via the CLI execution command (see [wiki](https://github.com/p4tTt1/pkevo/wiki/03---Execution) for more information on that).
 
 **Note**: This repository includes a tutorial (written as a Jupyter Notebook) that illustrates the usage and functionality of this app. In order for you to run and follow along the tutorial, you need to meet the requirements for PKevo (see above), as well as have Jupyter Notebook installed on your system.
 
