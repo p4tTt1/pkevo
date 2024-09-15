@@ -4,6 +4,7 @@ Repo for Patrick Kaleta's MA thesis. Topic: Evolution & evaluation of polyketide
 that bind to specified target receptors. Builds on work previously done by Robert Haas.
 
 ![PKevo workflow drawio](https://github.com/user-attachments/assets/5bf18582-c1b3-4590-9766-57594a5c8930)
+
 Diagram showing the basic workflow of PKevo and concepts involved. Find out more in the [Wiki](https://github.com/p4tTt1/pkevo/wiki).
 
 
