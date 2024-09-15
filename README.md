@@ -14,7 +14,7 @@ ATM (version 0.4) this tool does not feature any fancy setup script, nor does it
 ## Running PKevo
 PKevo is intended to be used as a Command line tool.
 
-To run the application, you need to execute the provided `pkevo.py` file in a CLI window. `pkevo.py` serves as the main entry point of the application. The file is located inside the `/pkevo` directory and can be executed like this: `$ python pkevo.py [OPTIONAL SETTINGS]`. Parameters for the Grammatical Evolution can be set in `/pkevo/config/pkevo_config.py`, however the provided default settings should suffice for most needs. Some settings can be adjusted directly via the CLI execution command (see [wiki](https://github.com/p4tTt1/pkevo/wiki/03---Execution) for more information on that).
+To run the application, you need to execute the provided `pkevo.py` file in a CLI window. `pkevo.py` serves as the main entry point of the application. The file is located inside the `/pkevo` directory and can be executed like this: `$ python pkevo.py [OPTIONAL SETTINGS]`. Parameters for the Grammatical Evolution can be set in `/pkevo/config/pkevo_config.py`, however the provided default settings should suffice for most needs. Some settings can be adjusted directly via the CLI execution command (see [wiki](https://github.com/p4tTt1/pkevo/wiki/03:-Execution) for more information on that).
 
 **Note**: This repository includes a tutorial (written as a Jupyter Notebook) that illustrates the usage and functionality of this app. In order for you to run and follow along the tutorial, you need to meet the requirements for PKevo (see above), as well as have Jupyter Notebook installed on your system.
 
