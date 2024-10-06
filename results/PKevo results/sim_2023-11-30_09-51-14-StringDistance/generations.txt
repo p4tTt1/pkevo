@@ -1,0 +1,602 @@
+Simulation finished after 1.126 seconds.
+No specific starting individuals were used.
+
+
+Generation #0 (Elapsed time: 0.001s): Fitness min:67.00 avg:129.05 max:216.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'red-mango-phoenix':
+  Genotype:  [71, 95, 91, 100, 119, 100, 110, 79, 97, 114, 0, 0, 31, 88, 16, 118, 48, 80, 31, 75, 70, 48, 96, 34, 77, 119, 24, 115, 48, 80, 50, 71, 46, 3, 31, 47, 22, 120, 106, 120, 124, 118, 121, 127, 98, 49, 15, 28, 89, 122, 40, 0, 30, 105, 29, 82, 117, 54, 59, 50, 24, 88, 117, 124, 90, 89, 79, 84, 26, 4, 99, 116, 75, 54, 34, 126, 86, 103, 54, 0, 59, 40, 119, 3, 36, 94, 18, 103, 41, 27, 125, 42, 120, 5, 12, 48, 106, 62, 112, 53]
+  Genotype length:  100
+  Used codons:  32
+  Phenotype: AT(Benzoyl)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Ethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   67
+
+
+Generation #1 (Elapsed time: 0.018s): Fitness min:62.00 avg:106.76 max:182.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'blue-raspberry-kraken':
+  Genotype:  [69, 27, 87, 101, 104, 79, 62, 40, 51, 74, 9, 82, 2, 12, 108, 86, 94, 40, 127, 19, 60, 90, 82, 21, 123, 53, 43, 17, 11, 39, 81, 12, 100, 16, 123, 114, 5, 40, 12, 112, 42, 4, 73, 50, 45, 59, 19, 28, 82, 74, 43, 29, 87, 113, 75, 42, 109, 53, 109, 75, 116, 60, 65, 92, 20, 28, 19, 0, 114, 57, 51, 41, 103, 97, 106, 42, 47, 121, 66, 92, 127, 125, 98, 107, 55, 44, 86, 44, 111, 73, 115, 40, 32, 88, 93, 8, 26, 67, 96, 35]
+  Genotype length:  100
+  Used codons:  35
+  Phenotype: AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   62
+
+
+Generation #2 (Elapsed time: 0.018s): Fitness min:62.00 avg:96.65 max:158.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'red-apple-pegasus':
+  Genotype:  [69, 27, 87, 101, 104, 23, 62, 40, 51, 74, 9, 82, 2, 12, 108, 86, 94, 40, 127, 65, 60, 90, 82, 21, 123, 53, 43, 17, 11, 39, 81, 12, 100, 16, 123, 114, 5, 40, 12, 85, 42, 120, 34, 50, 45, 59, 19, 28, 35, 74, 43, 29, 87, 113, 46, 75, 49, 111, 53, 109, 75, 116, 60, 65, 92, 20, 28, 19, 0, 114, 57, 51, 41, 103, 97, 106, 42, 47, 121, 66, 92, 127, 125, 98, 107, 55, 44, 63, 44, 111, 73, 115, 40, 59, 88, 93, 8, 26, 67, 96, 45]
+  Genotype length:  101
+  Used codons:  35
+  Phenotype: AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   62
+
+
+Generation #3 (Elapsed time: 0.019s): Fitness min:57.00 avg:91.56 max:172.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'brown-nectarine-kelpie':
+  Genotype:  [15, 43, 89, 125, 65, 78, 19, 121, 119, 22, 68, 84, 107, 10, 84, 74, 117, 78, 59, 24, 14, 109, 33, 11, 64, 26, 6, 118, 6, 99, 116, 62, 71, 35, 7, 106, 123, 115, 109, 86, 21, 91, 98, 57, 34, 67, 105, 73, 72, 40, 46, 84, 65, 98, 38, 38, 52, 11, 111, 35, 85, 11, 11, 124, 68, 110, 49, 125, 53, 88, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 122, 63, 9, 111, 22, 102, 15, 87, 54, 21, 80, 49]
+  Genotype length:  100
+  Used codons:  33
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-DH-ER-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   57
+
+
+Generation #4 (Elapsed time: 0.019s): Fitness min:52.00 avg:89.02 max:157.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'green-strawberry-unicorn':
+  Genotype:  [15, 43, 89, 125, 65, 110, 34, 59, 114, 7, 82, 9, 78, 23, 70, 70, 93, 105, 19, 109, 14, 50, 24, 77, 21, 39, 112, 86, 103, 56, 0, 57, 71, 35, 7, 106, 123, 115, 109, 86, 21, 66, 98, 68, 34, 67, 105, 73, 72, 40, 46, 84, 82, 98, 38, 38, 52, 11, 111, 106, 85, 0, 118, 124, 68, 110, 49, 125, 53, 88, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 122, 63, 9, 111, 22, 102, 15, 53, 54, 21, 80, 49]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   52
+
+
+Generation #5 (Elapsed time: 0.018s): Fitness min:52.00 avg:88.56 max:185.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'violet-blueberry-unicorn':
+  Genotype:  [15, 43, 124, 125, 65, 110, 34, 59, 114, 7, 82, 9, 78, 23, 70, 70, 93, 105, 19, 109, 14, 50, 24, 77, 21, 39, 112, 86, 103, 56, 0, 57, 71, 35, 7, 106, 123, 115, 109, 86, 21, 66, 98, 68, 34, 67, 105, 73, 72, 40, 46, 84, 82, 98, 38, 38, 28, 11, 111, 106, 85, 0, 118, 124, 68, 110, 49, 125, 53, 92, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 122, 63, 9, 111, 22, 102, 15, 53, 54, 21, 100, 49]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   52
+
+
+Generation #6 (Elapsed time: 0.017s): Fitness min:46.00 avg:84.37 max:142.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'red-papaya-unicorn':
+  Genotype:  [15, 43, 89, 125, 65, 78, 19, 121, 44, 121, 68, 84, 71, 107, 70, 70, 93, 105, 19, 109, 14, 50, 24, 77, 21, 39, 112, 86, 56, 0, 57, 71, 35, 38, 106, 123, 115, 109, 86, 21, 66, 98, 68, 34, 67, 105, 73, 72, 40, 46, 84, 82, 98, 38, 38, 28, 11, 111, 106, 85, 0, 118, 124, 68, 110, 49, 125, 53, 92, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 13, 63, 9, 111, 22, 102, 15, 53, 54, 21, 100, 69]
+  Genotype length:  99
+  Used codons:  35
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   46
+
+
+Generation #7 (Elapsed time: 0.018s): Fitness min:46.00 avg:82.84 max:166.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'red-papaya-unicorn':
+  Genotype:  [15, 43, 89, 125, 65, 78, 19, 121, 44, 121, 68, 84, 71, 107, 70, 70, 93, 105, 19, 109, 14, 50, 24, 77, 21, 39, 112, 86, 56, 0, 57, 71, 35, 38, 106, 123, 115, 109, 86, 21, 66, 98, 68, 34, 67, 105, 73, 72, 40, 46, 84, 82, 98, 38, 38, 28, 11, 111, 106, 85, 0, 118, 124, 68, 110, 49, 125, 53, 92, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 13, 63, 9, 111, 22, 102, 15, 53, 54, 21, 100, 69]
+  Genotype length:  99
+  Used codons:  35
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   46
+
+
+Generation #8 (Elapsed time: 0.018s): Fitness min:46.00 avg:78.69 max:123.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'red-papaya-unicorn':
+  Genotype:  [15, 43, 89, 125, 65, 78, 19, 121, 44, 121, 68, 84, 71, 107, 70, 70, 93, 105, 19, 109, 14, 50, 24, 77, 21, 39, 112, 86, 56, 0, 57, 71, 35, 38, 106, 123, 115, 109, 86, 21, 66, 98, 68, 34, 67, 105, 73, 72, 40, 46, 84, 82, 98, 38, 38, 28, 11, 111, 106, 85, 0, 118, 124, 68, 110, 49, 125, 53, 92, 86, 14, 22, 74, 91, 76, 61, 15, 81, 126, 3, 9, 110, 51, 44, 20, 110, 108, 13, 63, 9, 111, 22, 102, 15, 53, 54, 21, 100, 69]
+  Genotype length:  99
+  Used codons:  35
+  Phenotype: AT(Coumaroyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   46
+
+
+Generation #9 (Elapsed time: 0.018s): Fitness min:45.00 avg:77.89 max:157.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'brown-mangosteen-leprechaun':
+  Genotype:  [101, 76, 59, 101, 104, 115, 79, 1, 12, 22, 68, 84, 117, 118, 70, 93, 1, 27, 103, 51, 39, 110, 50, 79, 43, 116, 4, 92, 18, 2, 119, 63, 60, 81, 28, 82, 75, 82, 120, 94, 57, 122, 42, 111, 84, 15, 27, 37, 22, 30, 78, 83, 24, 20, 38, 32, 35, 19, 59, 115, 115, 9, 62, 49, 64, 89, 52, 14, 7, 18, 54, 63, 44, 98, 126, 89, 19, 44, 72, 125, 126, 74, 85, 80, 5, 10, 61, 124, 47, 78, 37, 37, 8, 66, 72, 42, 38, 79, 51]
+  Genotype length:  99
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   45
+
+
+Generation #10 (Elapsed time: 0.017s): Fitness min:44.00 avg:77.90 max:160.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'blue-durian-leprechaun':
+  Genotype:  [101, 76, 87, 125, 65, 110, 19, 24, 119, 22, 68, 84, 77, 101, 96, 70, 113, 117, 19, 109, 14, 50, 105, 33, 76, 69, 4, 76, 11, 103, 81, 12, 100, 16, 82, 75, 82, 120, 94, 57, 122, 42, 124, 26, 15, 27, 99, 22, 78, 78, 83, 24, 112, 38, 32, 106, 19, 59, 115, 115, 9, 62, 49, 64, 89, 52, 29, 80, 15, 54, 63, 44, 123, 126, 89, 19, 44, 80, 125, 126, 74, 85, 103, 108, 10, 61, 124, 47, 78, 37, 37, 8, 66, 46, 42, 9, 79, 51]
+  Genotype length:  98
+  Used codons:  35
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Malonyl)-KR-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   44
+
+
+Generation #11 (Elapsed time: 0.018s): Fitness min:44.00 avg:75.17 max:142.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'brown-lychee-leprechaun':
+  Genotype:  [101, 76, 87, 125, 65, 110, 19, 24, 39, 22, 68, 84, 77, 101, 96, 70, 113, 117, 19, 109, 14, 50, 105, 33, 76, 69, 4, 76, 11, 103, 81, 12, 100, 16, 82, 75, 82, 120, 94, 57, 122, 42, 124, 26, 15, 119, 99, 22, 78, 78, 83, 24, 112, 38, 32, 106, 19, 59, 115, 115, 9, 62, 49, 64, 89, 52, 29, 80, 15, 54, 63, 44, 123, 38, 89, 19, 117, 80, 125, 126, 74, 85, 103, 108, 10, 61, 124, 47, 78, 37, 37, 8, 66, 46, 42, 9, 79, 51]
+  Genotype length:  98
+  Used codons:  35
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Malonyl)-KR-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   44
+
+
+Generation #12 (Elapsed time: 0.018s): Fitness min:44.00 avg:79.65 max:158.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'brown-lychee-leprechaun':
+  Genotype:  [101, 76, 87, 125, 65, 110, 19, 24, 39, 22, 68, 84, 77, 101, 96, 70, 113, 117, 19, 109, 14, 50, 105, 33, 76, 69, 4, 76, 11, 103, 81, 12, 100, 16, 82, 75, 82, 120, 94, 57, 122, 42, 124, 26, 15, 119, 99, 22, 78, 78, 83, 24, 112, 38, 32, 106, 19, 59, 115, 115, 9, 62, 49, 64, 89, 52, 29, 80, 15, 54, 63, 44, 123, 38, 89, 19, 117, 80, 125, 126, 74, 85, 103, 108, 10, 61, 124, 47, 78, 37, 37, 8, 66, 46, 42, 9, 79, 51]
+  Genotype length:  98
+  Used codons:  35
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Malonyl)-KR-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   44
+
+
+Generation #13 (Elapsed time: 0.021s): Fitness min:42.00 avg:73.91 max:130.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'purple-mango-wyvern':
+  Genotype:  [101, 76, 87, 125, 65, 110, 88, 58, 79, 7, 82, 9, 25, 23, 70, 70, 69, 105, 19, 109, 14, 23, 33, 11, 64, 26, 6, 82, 102, 30, 87, 18, 46, 3, 82, 75, 82, 120, 94, 57, 122, 42, 124, 26, 15, 27, 99, 22, 120, 78, 83, 24, 112, 90, 111, 11, 19, 59, 115, 115, 9, 62, 49, 64, 89, 52, 29, 80, 15, 54, 73, 44, 123, 126, 89, 19, 44, 80, 60, 126, 74, 85, 103, 108, 10, 61, 124, 47, 78, 37, 37, 98, 66, 59, 42, 51, 79, 51]
+  Genotype length:  98
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   42
+
+
+Generation #14 (Elapsed time: 0.019s): Fitness min:42.00 avg:76.03 max:171.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'black-blueberry-wyvern':
+  Genotype:  [111, 78, 89, 55, 65, 95, 34, 73, 79, 7, 82, 9, 25, 62, 70, 70, 93, 105, 19, 106, 14, 50, 24, 37, 21, 39, 17, 13, 102, 99, 42, 58, 82, 16, 39, 88, 87, 70, 70, 112, 20, 32, 97, 86, 118, 74, 24, 40, 110, 112, 4, 75, 3, 45, 107, 118, 14, 29, 58, 112, 67, 68, 85, 4, 25, 43, 3, 106, 65, 47, 11, 10, 91, 73, 2, 116, 73, 65, 114, 125, 1, 61, 66, 16, 70, 47, 43, 33, 68, 69, 96, 16, 110, 93, 73, 113, 97, 58]
+  Genotype length:  98
+  Used codons:  35
+  Phenotype: AT(Butyryl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Chlorethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   42
+
+
+Generation #15 (Elapsed time: 0.020s): Fitness min:42.00 avg:72.41 max:127.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'black-blueberry-wyvern':
+  Genotype:  [111, 78, 89, 55, 65, 95, 34, 73, 79, 7, 82, 9, 25, 62, 70, 70, 93, 105, 19, 106, 14, 50, 24, 37, 21, 39, 17, 13, 102, 99, 42, 58, 82, 16, 39, 88, 87, 70, 70, 112, 20, 32, 97, 86, 118, 74, 24, 40, 110, 112, 4, 75, 3, 45, 107, 118, 14, 29, 58, 112, 67, 68, 85, 4, 25, 43, 3, 106, 65, 47, 11, 10, 91, 73, 2, 116, 73, 65, 114, 125, 1, 61, 66, 16, 70, 47, 43, 33, 68, 69, 96, 16, 110, 93, 73, 113, 97, 58]
+  Genotype length:  98
+  Used codons:  35
+  Phenotype: AT(Butyryl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Chlorethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   42
+
+
+Generation #16 (Elapsed time: 0.019s): Fitness min:33.00 avg:76.91 max:149.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'black-lychee-kelpie':
+  Genotype:  [101, 104, 70, 125, 85, 110, 34, 24, 44, 22, 68, 9, 25, 62, 40, 43, 97, 117, 19, 109, 1, 75, 105, 33, 21, 39, 38, 89, 127, 4, 112, 14, 58, 82, 28, 66, 64, 45, 57, 105, 59, 94, 122, 122, 98, 84, 57, 122, 69, 87, 92, 83, 83, 106, 112, 39, 32, 82, 19, 59, 69, 115, 103, 71, 49, 33, 81, 52, 14, 86, 34, 6, 6, 30, 89, 115, 25, 26, 11, 109, 76, 83, 85, 80, 26, 7, 61, 82, 43, 113, 37, 97, 52, 60, 112, 126, 6, 79, 114]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   33
+
+
+Generation #17 (Elapsed time: 0.020s): Fitness min:33.00 avg:75.29 max:176.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'black-lychee-kelpie':
+  Genotype:  [101, 104, 70, 125, 85, 110, 34, 24, 44, 22, 68, 9, 25, 62, 40, 43, 97, 117, 19, 109, 1, 75, 105, 33, 21, 39, 38, 89, 127, 4, 112, 14, 58, 82, 28, 66, 64, 45, 57, 105, 59, 94, 122, 122, 98, 84, 57, 122, 69, 87, 92, 83, 83, 106, 112, 39, 32, 82, 19, 59, 69, 115, 103, 71, 49, 33, 81, 52, 14, 86, 34, 6, 6, 30, 89, 115, 25, 26, 11, 109, 76, 83, 85, 80, 26, 7, 61, 82, 43, 113, 37, 97, 52, 60, 112, 126, 6, 79, 114]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   33
+
+
+Generation #18 (Elapsed time: 0.019s): Fitness min:33.00 avg:72.88 max:124.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'black-lychee-kelpie':
+  Genotype:  [101, 104, 70, 125, 85, 110, 34, 24, 44, 22, 68, 9, 25, 62, 40, 43, 97, 117, 19, 109, 1, 75, 105, 33, 21, 39, 38, 89, 127, 4, 112, 14, 58, 82, 28, 66, 64, 45, 57, 105, 59, 94, 122, 122, 98, 84, 57, 122, 69, 87, 92, 83, 83, 106, 112, 39, 32, 82, 19, 59, 69, 115, 103, 71, 49, 33, 81, 52, 14, 86, 34, 6, 6, 30, 89, 115, 25, 26, 11, 109, 76, 83, 85, 80, 26, 7, 61, 82, 43, 113, 37, 97, 52, 60, 112, 126, 6, 79, 114]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   33
+
+
+Generation #19 (Elapsed time: 0.020s): Fitness min:33.00 avg:69.74 max:104.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'black-lychee-kelpie':
+  Genotype:  [101, 104, 70, 125, 85, 110, 34, 24, 44, 22, 68, 9, 25, 62, 40, 43, 97, 117, 19, 109, 1, 75, 105, 33, 21, 39, 38, 89, 127, 4, 112, 14, 58, 82, 28, 66, 64, 45, 57, 105, 59, 94, 122, 122, 98, 84, 57, 122, 69, 87, 92, 83, 83, 106, 112, 39, 32, 82, 19, 59, 69, 115, 103, 71, 49, 33, 81, 52, 14, 86, 34, 6, 6, 30, 89, 115, 25, 26, 11, 109, 76, 83, 85, 80, 26, 7, 61, 82, 43, 113, 37, 97, 52, 60, 112, 126, 6, 79, 114]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   33
+
+
+Generation #20 (Elapsed time: 0.020s): Fitness min:33.00 avg:71.07 max:168.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'black-lychee-kelpie':
+  Genotype:  [101, 104, 70, 125, 85, 110, 34, 24, 44, 22, 68, 9, 25, 62, 40, 43, 97, 117, 19, 109, 1, 75, 105, 33, 21, 39, 38, 89, 127, 4, 112, 14, 58, 82, 28, 66, 64, 45, 57, 105, 59, 94, 122, 122, 98, 84, 57, 122, 69, 87, 92, 83, 83, 106, 112, 39, 32, 82, 19, 59, 69, 115, 103, 71, 49, 33, 81, 52, 14, 86, 34, 6, 6, 30, 89, 115, 25, 26, 11, 109, 76, 83, 85, 80, 26, 7, 61, 82, 43, 113, 37, 97, 52, 60, 112, 126, 6, 79, 114]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-DH-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   33
+
+
+Generation #21 (Elapsed time: 0.021s): Fitness min:32.00 avg:65.22 max:111.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'blue-jackfruit-leprechaun':
+  Genotype:  [101, 76, 57, 125, 65, 110, 19, 24, 39, 36, 82, 9, 25, 62, 70, 70, 93, 118, 103, 100, 110, 50, 33, 11, 95, 100, 93, 66, 33, 54, 119, 82, 28, 66, 82, 75, 58, 60, 94, 58, 122, 42, 56, 84, 15, 29, 37, 22, 78, 78, 71, 110, 31, 102, 26, 39, 5, 97, 59, 115, 20, 8, 63, 64, 59, 67, 82, 14, 2, 110, 54, 117, 44, 49, 126, 89, 19, 87, 62, 125, 125, 74, 85, 112, 116, 125, 122, 124, 26, 78, 83, 37, 17, 22, 48, 51, 38, 79, 39]
+  Genotype length:  99
+  Used codons:  35
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   32
+
+
+Generation #22 (Elapsed time: 0.021s): Fitness min:32.00 avg:63.71 max:174.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'brown-blueberry-kelpie':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 24, 39, 73, 82, 9, 39, 105, 62, 70, 70, 93, 57, 103, 100, 110, 34, 24, 9, 95, 100, 93, 102, 112, 92, 52, 47, 3, 82, 75, 58, 30, 94, 58, 122, 42, 56, 51, 15, 122, 37, 22, 107, 114, 83, 110, 112, 77, 123, 39, 5, 97, 59, 115, 20, 63, 64, 110, 51, 82, 14, 2, 110, 54, 117, 12, 49, 126, 89, 12, 87, 2, 8, 125, 74, 76, 112, 50, 8, 122, 124, 47, 102, 83, 37, 17, 22, 48, 51, 38, 79, 39]
+  Genotype length:  98
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Ethylmalonyl)-KR-ACP--KS-AT(Methoxymalonyl)-KR-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   32
+
+
+Generation #23 (Elapsed time: 0.021s): Fitness min:31.00 avg:66.38 max:146.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'magenta-jackfruit-leprechaun':
+  Genotype:  [101, 76, 120, 125, 65, 110, 19, 24, 39, 36, 82, 9, 25, 62, 70, 70, 39, 118, 103, 100, 110, 50, 24, 77, 21, 39, 92, 112, 88, 77, 12, 30, 2, 81, 28, 82, 120, 94, 45, 122, 56, 56, 86, 15, 70, 37, 22, 9, 42, 73, 40, 3, 38, 26, 39, 49, 97, 59, 115, 9, 63, 29, 21, 91, 14, 14, 47, 110, 54, 63, 87, 49, 45, 33, 17, 19, 11, 2, 8, 125, 74, 75, 112, 21, 64, 102, 124, 115, 107, 18, 37, 8, 22, 48, 53, 51, 124, 2, 9]
+  Genotype length:  99
+  Used codons:  33
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   31
+
+
+Generation #24 (Elapsed time: 0.021s): Fitness min:31.00 avg:62.65 max:133.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'magenta-jackfruit-leprechaun':
+  Genotype:  [101, 76, 120, 125, 65, 110, 19, 24, 39, 36, 82, 9, 25, 62, 70, 70, 39, 118, 103, 100, 110, 50, 24, 77, 21, 39, 92, 112, 88, 77, 12, 30, 2, 81, 28, 82, 120, 94, 45, 122, 56, 56, 86, 15, 70, 37, 22, 9, 42, 73, 40, 3, 38, 26, 39, 49, 97, 59, 115, 9, 63, 29, 21, 91, 14, 14, 47, 110, 54, 63, 87, 49, 45, 33, 17, 19, 11, 2, 8, 125, 74, 75, 112, 21, 64, 102, 124, 115, 107, 18, 37, 8, 22, 48, 53, 51, 124, 2, 9]
+  Genotype length:  99
+  Used codons:  33
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   31
+
+
+Generation #25 (Elapsed time: 0.019s): Fitness min:26.00 avg:60.91 max:107.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'yellow-raspberry-wyvern':
+  Genotype:  [101, 76, 87, 125, 65, 93, 19, 55, 39, 7, 68, 84, 25, 92, 62, 70, 84, 93, 111, 13, 106, 14, 50, 24, 25, 21, 39, 23, 63, 112, 30, 58, 5, 28, 66, 82, 43, 58, 120, 76, 58, 122, 42, 56, 84, 15, 109, 37, 22, 78, 78, 3, 42, 112, 85, 26, 41, 5, 113, 59, 115, 20, 9, 63, 64, 59, 67, 3, 14, 2, 110, 22, 41, 69, 49, 24, 89, 19, 87, 62, 125, 125, 19, 85, 112, 116, 64, 122, 9, 26, 78, 83, 37, 17, 22, 48, 51, 18, 36, 39]
+  Genotype length:  100
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   26
+
+
+Generation #26 (Elapsed time: 0.023s): Fitness min:26.00 avg:63.07 max:150.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'yellow-raspberry-wyvern':
+  Genotype:  [101, 76, 87, 125, 65, 93, 19, 55, 39, 7, 68, 84, 25, 92, 62, 70, 84, 93, 111, 13, 106, 14, 50, 24, 25, 21, 39, 23, 63, 112, 30, 58, 5, 28, 66, 82, 43, 58, 120, 76, 58, 122, 42, 56, 84, 15, 109, 37, 22, 78, 78, 3, 42, 112, 85, 26, 41, 5, 113, 59, 115, 20, 9, 63, 64, 59, 67, 3, 14, 2, 110, 22, 41, 69, 49, 24, 89, 19, 87, 62, 125, 125, 19, 85, 112, 116, 64, 122, 9, 26, 78, 83, 37, 17, 22, 48, 51, 18, 36, 39]
+  Genotype length:  100
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   26
+
+
+Generation #27 (Elapsed time: 0.024s): Fitness min:26.00 avg:61.13 max:174.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'yellow-raspberry-wyvern':
+  Genotype:  [101, 76, 87, 125, 65, 93, 19, 55, 39, 7, 68, 84, 25, 92, 62, 70, 84, 93, 111, 13, 106, 14, 50, 24, 25, 21, 39, 23, 63, 112, 30, 58, 5, 28, 66, 82, 43, 58, 120, 76, 58, 122, 42, 56, 84, 15, 109, 37, 22, 78, 78, 3, 42, 112, 85, 26, 41, 5, 113, 59, 115, 20, 9, 63, 64, 59, 67, 3, 14, 2, 110, 22, 41, 69, 49, 24, 89, 19, 87, 62, 125, 125, 19, 85, 112, 116, 64, 122, 9, 26, 78, 83, 37, 17, 22, 48, 51, 18, 36, 39]
+  Genotype length:  100
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   26
+
+
+Generation #28 (Elapsed time: 0.026s): Fitness min:26.00 avg:58.77 max:135.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'white-strawberry-wyvern':
+  Genotype:  [101, 76, 87, 125, 65, 110, 19, 24, 33, 36, 82, 9, 67, 62, 53, 52, 93, 93, 111, 13, 106, 14, 50, 24, 25, 21, 39, 23, 63, 51, 30, 58, 5, 82, 16, 82, 75, 82, 4, 35, 57, 126, 42, 124, 82, 96, 119, 99, 22, 2, 78, 83, 126, 112, 12, 77, 106, 122, 4, 80, 115, 9, 24, 62, 99, 109, 38, 52, 29, 120, 15, 14, 63, 83, 123, 4, 118, 19, 41, 80, 125, 126, 29, 74, 73, 103, 108, 1, 61, 124, 76, 16, 37, 112, 8, 53, 46, 19, 9, 79, 12]
+  Genotype length:  101
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   26
+
+
+Generation #29 (Elapsed time: 0.020s): Fitness min:26.00 avg:58.29 max:132.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'magenta-raspberry-leprechaun':
+  Genotype:  [101, 76, 87, 125, 65, 110, 19, 24, 33, 36, 82, 9, 67, 62, 53, 52, 93, 93, 111, 13, 106, 14, 50, 24, 25, 21, 39, 23, 63, 51, 30, 58, 5, 82, 16, 82, 75, 82, 4, 35, 57, 126, 42, 124, 82, 96, 119, 99, 22, 2, 78, 83, 126, 124, 12, 77, 106, 122, 4, 24, 115, 9, 24, 62, 99, 109, 38, 52, 29, 120, 15, 14, 63, 83, 123, 4, 118, 19, 41, 80, 125, 126, 29, 74, 73, 103, 108, 1, 61, 124, 76, 16, 37, 112, 8, 53, 46, 19, 9, 79, 12]
+  Genotype length:  101
+  Used codons:  37
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   26
+
+
+Generation #30 (Elapsed time: 0.025s): Fitness min:24.00 avg:54.15 max:129.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'red-banana-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 37, 39, 36, 84, 41, 73, 63, 70, 70, 103, 45, 103, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 42, 66, 84, 15, 29, 98, 22, 10, 78, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 59, 67, 82, 14, 2, 110, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 125, 66, 18, 123, 116, 8, 122, 124, 26, 78, 83, 37, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   24
+
+
+Generation #31 (Elapsed time: 0.023s): Fitness min:24.00 avg:53.51 max:98.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'red-banana-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 37, 39, 36, 84, 41, 73, 63, 70, 70, 103, 45, 103, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 42, 66, 84, 15, 29, 98, 22, 10, 78, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 59, 67, 82, 14, 2, 110, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 125, 66, 18, 123, 116, 8, 122, 124, 26, 78, 83, 37, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   24
+
+
+Generation #32 (Elapsed time: 0.023s): Fitness min:24.00 avg:55.51 max:129.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'red-banana-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 37, 39, 36, 84, 41, 73, 63, 70, 70, 103, 45, 103, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 42, 66, 84, 15, 29, 98, 22, 10, 78, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 59, 67, 82, 14, 2, 110, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 125, 66, 18, 123, 116, 8, 122, 124, 26, 78, 83, 37, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   24
+
+
+Generation #33 (Elapsed time: 0.023s): Fitness min:21.00 avg:54.52 max:138.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'magenta-pineapple-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 124, 39, 36, 82, 9, 33, 62, 53, 52, 63, 93, 111, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 86, 66, 84, 15, 29, 98, 22, 10, 78, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 59, 51, 82, 14, 2, 110, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 125, 66, 18, 123, 116, 8, 122, 124, 26, 78, 83, 37, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   21
+
+
+Generation #34 (Elapsed time: 0.021s): Fitness min:21.00 avg:52.32 max:130.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'yellow-papaya-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 124, 39, 36, 82, 9, 33, 62, 53, 52, 63, 93, 111, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 86, 66, 84, 15, 29, 98, 22, 10, 57, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 16, 51, 82, 14, 2, 37, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 68, 66, 18, 123, 116, 8, 122, 124, 26, 78, 62, 82, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   21
+
+
+Generation #35 (Elapsed time: 0.023s): Fitness min:21.00 avg:50.40 max:160.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'yellow-papaya-leprechaun':
+  Genotype:  [101, 76, 89, 55, 65, 93, 19, 124, 39, 36, 82, 9, 33, 62, 53, 52, 63, 93, 111, 100, 110, 50, 76, 11, 89, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 75, 58, 4, 88, 79, 67, 89, 86, 66, 84, 15, 29, 98, 22, 10, 57, 3, 110, 112, 102, 26, 39, 5, 97, 2, 57, 20, 9, 7, 116, 16, 51, 82, 14, 2, 37, 54, 113, 44, 49, 115, 19, 80, 87, 62, 125, 68, 66, 18, 123, 116, 8, 122, 124, 26, 78, 62, 82, 82, 22, 86, 65, 38, 14, 96]
+  Genotype length:  100
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   21
+
+
+Generation #36 (Elapsed time: 0.022s): Fitness min:17.00 avg:46.20 max:126.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'blue-banana-leprechaun':
+  Genotype:  [101, 76, 87, 13, 65, 93, 19, 55, 39, 21, 20, 84, 77, 85, 70, 70, 70, 74, 93, 100, 110, 50, 24, 41, 117, 39, 92, 66, 107, 85, 97, 65, 28, 90, 68, 82, 125, 52, 105, 102, 21, 40, 61, 27, 0, 85, 84, 5, 84, 92, 7, 33, 122, 103, 13, 17, 14, 101, 3, 90, 12, 121, 63, 70, 33, 55, 28, 120, 27, 96, 3, 28, 5, 103, 35, 63, 107, 107, 45, 63, 22, 26, 103, 85, 35, 80, 43, 80, 38, 28, 15, 88, 37, 97, 116, 122, 23, 68, 77, 92, 114]
+  Genotype length:  101
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactamization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #37 (Elapsed time: 0.023s): Fitness min:17.00 avg:49.43 max:133.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'yellow-durian-leprechaun':
+  Genotype:  [7, 76, 59, 100, 65, 93, 19, 55, 39, 21, 20, 84, 77, 101, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 85, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 50, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 3, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 49, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #38 (Elapsed time: 0.022s): Fitness min:17.00 avg:51.35 max:103.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'yellow-durian-leprechaun':
+  Genotype:  [7, 76, 59, 100, 65, 93, 19, 55, 39, 21, 20, 84, 77, 101, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 85, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 50, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 3, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 49, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #39 (Elapsed time: 0.022s): Fitness min:17.00 avg:50.85 max:125.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'brown-guava-leprechaun':
+  Genotype:  [7, 76, 59, 100, 65, 93, 19, 55, 39, 21, 20, 84, 77, 101, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 37, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 50, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 3, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 28, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #40 (Elapsed time: 0.021s): Fitness min:17.00 avg:52.93 max:125.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'brown-guava-leprechaun':
+  Genotype:  [7, 76, 59, 100, 65, 93, 19, 55, 39, 21, 20, 84, 77, 101, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 37, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 50, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 3, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 28, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #41 (Elapsed time: 0.023s): Fitness min:17.00 avg:56.52 max:153.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'brown-guava-leprechaun':
+  Genotype:  [7, 76, 59, 100, 65, 93, 19, 55, 39, 21, 20, 84, 77, 101, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 37, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 50, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 3, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 28, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   17
+
+
+Generation #42 (Elapsed time: 0.022s): Fitness min:15.00 avg:56.14 max:119.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'violet-nectarine-kelpie':
+  Genotype:  [7, 76, 81, 55, 5, 93, 19, 55, 39, 21, 20, 84, 77, 25, 70, 91, 70, 74, 93, 100, 110, 50, 24, 41, 89, 39, 92, 66, 107, 37, 97, 65, 54, 66, 82, 43, 58, 120, 50, 58, 33, 26, 1, 71, 15, 23, 37, 22, 22, 78, 98, 42, 112, 79, 26, 111, 5, 113, 63, 115, 20, 87, 63, 1, 64, 59, 67, 8, 8, 2, 110, 67, 41, 118, 28, 24, 89, 19, 49, 30, 125, 125, 19, 85, 112, 116, 64, 113, 26, 78, 83, 37, 17, 22, 48, 37, 18, 36, 124]
+  Genotype length:  99
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   15
+
+
+Generation #43 (Elapsed time: 0.022s): Fitness min:15.00 avg:54.65 max:125.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'pink-apple-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 70, 5, 70, 74, 93, 100, 110, 50, 24, 41, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 110, 76, 102, 26, 39, 41, 39, 2, 100, 117, 107, 80, 50, 59, 67, 79, 14, 48, 125, 54, 114, 44, 117, 108, 29, 23, 80, 87, 62, 33, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   15
+
+
+Generation #44 (Elapsed time: 0.022s): Fitness min:15.00 avg:52.20 max:126.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'pink-apple-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 70, 5, 70, 74, 93, 100, 110, 50, 24, 41, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 110, 76, 102, 26, 39, 41, 39, 2, 100, 117, 107, 80, 50, 59, 67, 79, 14, 48, 125, 54, 114, 44, 117, 108, 29, 23, 80, 87, 62, 33, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   15
+
+
+Generation #45 (Elapsed time: 0.022s): Fitness min:9.00 avg:54.39 max:134.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9
+
+
+Generation #46 (Elapsed time: 0.025s): Fitness min:9.00 avg:58.83 max:167.00
+Phenotypes unique: 100, duplicated: 0, invalid: 0
+Best Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9
+
+
+Generation #47 (Elapsed time: 0.022s): Fitness min:9.00 avg:50.46 max:159.00
+Phenotypes unique: 99, duplicated: 1, invalid: 0
+Best Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9
+
+
+Generation #48 (Elapsed time: 0.022s): Fitness min:9.00 avg:48.87 max:143.00
+Phenotypes unique: 98, duplicated: 2, invalid: 0
+Best Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9
+
+
+Generation #49 (Elapsed time: 0.023s): Fitness min:9.00 avg:46.86 max:142.00
+Phenotypes unique: 95, duplicated: 5, invalid: 0
+Best Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9

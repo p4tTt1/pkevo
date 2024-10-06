@@ -1,0 +1,9 @@
+LigandScout Version: 4.4?
+
+Ablauf via CLI tools:
+1) idbgen  (smi file input & ldb file output)
+2) iscreen (ldb file + pharmacophore input & sdf file output)
+
+
+no_score_under_40.smi:
+ - die ersten 256 molecules haben alle einen Score > 40, restlichen 0.0

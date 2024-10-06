@@ -1,0 +1,4 @@
+Reading molecule entry 1 failed - entry skipped.
+  Problem: Could not process "C1CCC(C(C(C)=CC(C)C(C(CC(C)CC2:C:C(:C:C(:C)NC(C=1C)=O)O)OC)O)O)OC Geld_pkevo"
+Reading molecule entry 2 failed - entry skipped.
+  Problem: Could not process "COC1CCC=C(C)C(NC2:C:C(O):C:C(CC(C)CC(OC)C(O)C(C)C=C(C)C1O):C)=O Geld_rh"

@@ -1,0 +1,46 @@
+Best individual:
+Individual 'green-apple-gorgon':
+  Genotype:  [101, 35, 24, 93, 127, 121, 41, 38, 83, 110, 69, 79, 92, 118, 78, 117, 40, 27, 112, 69, 59, 20, 28, 20, 10, 119, 62, 41, 95, 123, 0, 114, 92, 55, 52, 111, 101, 66, 27, 74, 27, 119, 9, 92, 74, 4, 59, 27, 57, 21, 111, 64, 53, 42, 40, 4, 25, 25, 72, 2, 28, 114, 42, 50, 48, 8, 115, 119, 103, 23, 54, 111, 9, 121, 120, 124, 96, 1, 126, 115, 78, 79, 110, 125, 126, 25, 76, 118, 61, 77, 21, 124, 34, 94, 54, 0, 31, 60, 63, 60, 12]
+  Genotype length:  101
+  Used codons:  20
+  Phenotype: AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-ACP--TE(Hydrolysis)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(C(O)=O)O)=O)CC)C)(C(C(C(C)C(C(C(O)=O)OC)O)=O)C)=O
+  Fitness:   0.83169097
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Ethylmalonyl)
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ ├── KR
+│ └── ACP
+└── 6. Module
+│ └── TE(Hydrolysis)
+
+Number of Modules: 7
+Number of Domains: 22
+
+

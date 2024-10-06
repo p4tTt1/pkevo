@@ -1,0 +1,57 @@
+Best individual:
+Individual 'white-nectarine-striga':
+  Genotype:  [31, 39, 17, 13, 48, 120, 24, 23, 71, 88, 8, 88, 35, 0, 108, 121, 85, 124, 104, 44, 120, 86, 48, 24, 65, 42, 15, 106, 124, 95, 66, 108, 47, 33, 3, 40, 53, 103, 103, 48, 37, 120, 58, 82, 64, 96, 91, 49, 108, 69, 4, 37, 35, 72, 112, 38, 7, 66, 107, 63, 18, 52, 123, 73, 27, 121, 5, 113, 71, 6, 84, 53, 103, 37, 3, 74, 28, 38, 127, 115, 93, 86, 83, 28, 100, 33, 43, 118, 123, 6, 18, 118, 91, 42, 39, 41, 119, 27]
+  Genotype length:  98
+  Used codons:  33
+  Phenotype: AT(Acetyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 3
+  Best molecule (SMILES): C(C(CCC(C1CC(C(C(C(C(C(O1)=O)O)=O)CCCl)=O)OC)=O)O)(C(C)C(C)O)=O
+  Fitness:   0.8401566
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Acetyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Malonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 6. Module
+│ ├── KS
+│ ├── AT(Chlorethylmalonyl)
+│ └── ACP
+├── 7. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+└── 8. Module
+│ └── TE(Macrolactonization)
+
+Number of Modules: 9
+Number of Domains: 31
+
+

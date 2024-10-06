@@ -1,0 +1,64 @@
+Best individual:
+Individual 'yellow-blueberry-unicorn':
+  Genotype:  [13, 55, 35, 55, 13, 85, 99, 62, 32, 107, 36, 38, 103, 98, 122, 61, 120, 13, 73, 122, 53, 113, 96, 125, 105, 92, 78, 0, 10, 34, 113, 49, 70, 90, 70, 72, 125, 29, 70, 85, 10, 92, 124, 61, 77, 28, 57, 27, 91, 40, 18, 74, 52, 81, 70, 51, 40, 44, 35, 105, 23, 21, 78, 14, 10, 47, 125, 0, 20, 26, 103, 71, 80, 104, 10, 1, 94, 95, 42, 94, 52, 85, 4, 7, 22, 108, 73, 21, 48, 7, 30, 83, 76, 8, 108, 114, 111]
+  Genotype length:  97
+  Used codons:  33
+  Phenotype: AT(Malonamyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--TE(Hydrolysis)-Cyclization(2)
+  Generated molecules: 84
+  Best molecule (SMILES): C(C(C(C(C(O)=O)C)=O)CCCl)(C1(C(CC2(C(C(C(C(C2C)=O)O)=O)(C1(C(C)CC(C)=CCC(N)=O)O)O)O)=O)C)=O
+  Fitness:   75.95
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Malonamyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 6. Module
+│ ├── KS
+│ ├── AT(Malonyl)
+│ └── ACP
+├── 7. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 8. Module
+│ ├── KS
+│ ├── AT(Chlorethylmalonyl)
+│ └── ACP
+├── 9. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+└── 10. Module
+│ ├── TE(Hydrolysis)
+│ └── Cyclization(2)
+Number of Modules: 11
+Number of Domains: 36
+
+
+Simulation finished after 16611.867 seconds.

@@ -1,0 +1,552 @@
+Simulation finished after 12418.327 seconds.
+No specific starting individuals were used.
+
+
+Generation #0 (Elapsed time: 73.193s): Fitness min:0.00 avg:0.02 max:0.61
+  Best Individual 'white-raspberry-yeti':
+  Genotype:  [107, 30, 48, 105, 78, 13, 30, 3, 56, 87, 66, 92, 74, 65, 110, 70, 48, 124, 119, 8, 71, 53, 42, 45, 64, 38, 15, 107, 24, 79, 116, 64, 102, 91, 37, 11, 61, 0, 112, 21, 66, 6, 64, 6, 32, 15, 79, 21, 65, 16, 125, 58, 115, 76, 39, 93, 102, 75, 49, 12, 3, 71, 1, 4, 96, 57, 35, 86, 71, 26, 12, 121, 71, 71, 84, 6, 10, 2, 102, 64, 5, 106, 24, 78, 58, 37, 125, 34, 65, 120, 69, 73, 46, 52, 43, 95, 124, 91, 91, 47]
+  Genotype length:  100
+  Used codons:  32
+  Phenotype: AT(Isobutyryl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--TE(Claisen)
+  Generated molecules: 2
+  Best molecule (SMILES): C(C(C(C(C)C)=O)N)(C(C(C(C(C(C(C1(C(C(C=C(C1=O)O)O)=O)CCCl)=O)N)=O)O)=O)C)=O
+  Fitness:   0.61064297
+
+
+Generation #1 (Elapsed time: 81.059s): Fitness min:0.00 avg:0.02 max:0.61
+  Best Individual 'white-raspberry-yeti':
+  Genotype:  [107, 30, 48, 105, 78, 13, 30, 3, 56, 87, 66, 92, 74, 65, 110, 70, 48, 124, 119, 8, 71, 53, 42, 45, 64, 38, 15, 107, 24, 79, 116, 64, 102, 91, 37, 11, 61, 0, 112, 21, 66, 6, 64, 6, 32, 15, 79, 21, 65, 16, 125, 58, 115, 76, 39, 93, 102, 75, 49, 12, 3, 71, 1, 4, 96, 57, 35, 86, 71, 26, 12, 121, 71, 71, 84, 6, 10, 2, 102, 64, 5, 106, 24, 78, 58, 37, 125, 34, 65, 120, 69, 73, 46, 52, 43, 95, 124, 91, 91, 47]
+  Genotype length:  100
+  Used codons:  32
+  Phenotype: AT(Isobutyryl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--TE(Claisen)
+  Generated molecules: 2
+  Best molecule (SMILES): C(C(C(C(C)C)=O)N)(C(C(C(C(C(C(C1(C(C(C=C(C1=O)O)O)=O)CCCl)=O)N)=O)O)=O)C)=O
+  Fitness:   0.61064297
+
+
+Generation #2 (Elapsed time: 106.566s): Fitness min:0.00 avg:0.03 max:0.61
+  Best Individual 'white-raspberry-yeti':
+  Genotype:  [107, 30, 48, 105, 78, 13, 30, 3, 56, 87, 66, 92, 74, 65, 110, 70, 48, 124, 119, 8, 71, 53, 42, 45, 64, 38, 15, 107, 24, 79, 116, 64, 102, 91, 37, 11, 61, 0, 112, 21, 66, 6, 64, 6, 32, 15, 79, 21, 65, 16, 125, 58, 115, 76, 39, 93, 102, 75, 49, 12, 3, 71, 1, 4, 96, 57, 35, 86, 71, 26, 12, 121, 71, 71, 84, 6, 10, 2, 102, 64, 5, 106, 24, 78, 58, 37, 125, 34, 65, 120, 69, 73, 46, 52, 43, 95, 124, 91, 91, 47]
+  Genotype length:  100
+  Used codons:  32
+  Phenotype: AT(Isobutyryl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Chlorethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--TE(Claisen)
+  Generated molecules: 2
+  Best molecule (SMILES): C(C(C(C(C)C)=O)N)(C(C(C(C(C(C(C1(C(C(C=C(C1=O)O)O)=O)CCCl)=O)N)=O)O)=O)C)=O
+  Fitness:   0.61064297
+
+
+Generation #3 (Elapsed time: 143.132s): Fitness min:0.00 avg:0.03 max:0.73
+  Best Individual 'purple-apple-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 47, 67, 33, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 124, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #4 (Elapsed time: 187.524s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #5 (Elapsed time: 179.256s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #6 (Elapsed time: 175.224s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #7 (Elapsed time: 186.692s): Fitness min:0.00 avg:0.08 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #8 (Elapsed time: 234.107s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #9 (Elapsed time: 190.281s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #10 (Elapsed time: 197.008s): Fitness min:0.00 avg:0.02 max:0.73
+  Best Individual 'blue-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #11 (Elapsed time: 210.497s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'brown-pineapple-yeti':
+  Genotype:  [71, 70, 95, 106, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 32, 78, 5, 117, 123, 110, 59, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 75, 6, 1, 34, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 97, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  100
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #12 (Elapsed time: 274.019s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'brown-papaya-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 103, 34, 81, 79, 0, 126, 127, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 74, 45, 95, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 38, 28, 17, 65, 0]
+  Genotype length:  99
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #13 (Elapsed time: 253.945s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #14 (Elapsed time: 219.627s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #15 (Elapsed time: 280.843s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #16 (Elapsed time: 231.272s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #17 (Elapsed time: 344.475s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #18 (Elapsed time: 284.141s): Fitness min:0.00 avg:0.06 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #19 (Elapsed time: 312.022s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #20 (Elapsed time: 283.323s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #21 (Elapsed time: 304.643s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #22 (Elapsed time: 350.463s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #23 (Elapsed time: 218.247s): Fitness min:0.00 avg:0.04 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #24 (Elapsed time: 284.182s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #25 (Elapsed time: 309.910s): Fitness min:0.00 avg:0.08 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #26 (Elapsed time: 251.752s): Fitness min:0.00 avg:0.05 max:0.73
+  Best Individual 'black-grape-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #27 (Elapsed time: 282.894s): Fitness min:0.00 avg:0.10 max:0.73
+  Best Individual 'blue-raspberry-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 84, 96, 64, 50, 64, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 115, 29, 19, 28, 17, 73, 0]
+  Genotype length:  103
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #28 (Elapsed time: 269.986s): Fitness min:0.00 avg:0.10 max:0.73
+  Best Individual 'violet-watermelon-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 114, 107, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 119, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0]
+  Genotype length:  102
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #29 (Elapsed time: 426.509s): Fitness min:0.00 avg:0.12 max:0.73
+  Best Individual 'green-lychee-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 30, 98, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 84, 96, 64, 50, 64, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 115, 29, 19, 28, 17, 73, 0]
+  Genotype length:  103
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #30 (Elapsed time: 226.289s): Fitness min:0.00 avg:0.08 max:0.73
+  Best Individual 'green-lychee-yeti':
+  Genotype:  [71, 70, 95, 120, 39, 127, 30, 98, 58, 113, 125, 123, 54, 101, 113, 31, 16, 71, 34, 103, 78, 5, 117, 123, 110, 73, 0, 87, 105, 2, 73, 8, 17, 12, 107, 104, 28, 82, 14, 75, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 84, 96, 64, 50, 64, 14, 90, 84, 107, 30, 102, 77, 105, 90, 52, 55, 67, 105, 98, 101, 45, 104, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 115, 29, 19, 28, 17, 73, 0]
+  Genotype length:  103
+  Used codons:  40
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Chlorethylmalonyl)-KR-ACP--KS-AT(Ethylmalonyl)-KR-DH-ER-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C(CCC(C(C(O)=CCC(C(CC)CC(C(C(C(O)=O)C)O)CCCl)O)=O)OC)(C(C(C1C(C(C(O1)=O)CC)=O)=O)O)=O
+  Fitness:   0.7286628
+
+
+Generation #31 (Elapsed time: 262.574s): Fitness min:0.00 avg:0.08 max:0.73
+  Best Individual 'white-guava-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 119, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 104, 28, 28, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #32 (Elapsed time: 184.264s): Fitness min:0.00 avg:0.07 max:0.73
+  Best Individual 'white-guava-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 119, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 104, 28, 28, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #33 (Elapsed time: 195.636s): Fitness min:0.00 avg:0.10 max:0.73
+  Best Individual 'white-guava-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 119, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 104, 28, 28, 75, 14, 6, 1, 22, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #34 (Elapsed time: 249.205s): Fitness min:0.00 avg:0.11 max:0.73
+  Best Individual 'red-papaya-yeti':
+  Genotype:  [15, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 119, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 104, 28, 28, 103, 64, 89, 101, 71, 103, 45, 95, 2, 2, 100, 55, 24, 29, 67, 50, 103, 114, 46, 81, 93, 76, 26, 67, 85, 53, 18, 38, 51, 17, 3, 68, 60, 114, 66, 121, 48, 121, 104, 26, 95, 23, 34, 127, 119, 28, 111, 123, 55, 37, 98, 104, 83, 125, 52, 40, 97, 74, 60, 41]
+  Genotype length:  98
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #35 (Elapsed time: 221.536s): Fitness min:0.00 avg:0.08 max:0.73
+  Best Individual 'red-papaya-yeti':
+  Genotype:  [15, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 119, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 104, 28, 28, 103, 64, 89, 101, 71, 103, 45, 95, 2, 2, 100, 55, 24, 29, 67, 50, 103, 114, 46, 81, 93, 76, 26, 67, 85, 53, 18, 38, 51, 17, 3, 68, 60, 114, 66, 121, 48, 121, 104, 26, 95, 23, 34, 127, 119, 28, 111, 123, 55, 37, 98, 104, 83, 125, 52, 40, 97, 74, 60, 41]
+  Genotype length:  98
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #36 (Elapsed time: 312.839s): Fitness min:0.00 avg:0.11 max:0.73
+  Best Individual 'yellow-watermelon-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 75, 14, 6, 1, 11, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #37 (Elapsed time: 292.839s): Fitness min:0.00 avg:0.09 max:0.73
+  Best Individual 'yellow-watermelon-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 75, 14, 6, 1, 11, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #38 (Elapsed time: 241.919s): Fitness min:0.00 avg:0.11 max:0.73
+  Best Individual 'yellow-watermelon-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 75, 14, 6, 1, 11, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #39 (Elapsed time: 254.846s): Fitness min:0.00 avg:0.16 max:0.73
+  Best Individual 'yellow-watermelon-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 75, 14, 6, 1, 11, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #40 (Elapsed time: 293.517s): Fitness min:0.00 avg:0.18 max:0.73
+  Best Individual 'yellow-watermelon-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 113, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 75, 14, 6, 1, 11, 108, 126, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 65, 0, 22]
+  Genotype length:  104
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #41 (Elapsed time: 258.255s): Fitness min:0.00 avg:0.18 max:0.73
+  Best Individual 'black-mangosteen-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 23, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 85, 75, 14, 6, 1, 11, 108, 8, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 35, 0, 22]
+  Genotype length:  105
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #42 (Elapsed time: 314.629s): Fitness min:0.00 avg:0.17 max:0.73
+  Best Individual 'black-mangosteen-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 23, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 85, 75, 14, 6, 1, 11, 108, 8, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 35, 0, 22]
+  Genotype length:  105
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #43 (Elapsed time: 269.042s): Fitness min:0.00 avg:0.17 max:0.73
+  Best Individual 'black-mangosteen-yeti':
+  Genotype:  [71, 70, 95, 76, 39, 127, 59, 58, 113, 44, 0, 54, 28, 110, 62, 109, 23, 70, 2, 103, 82, 2, 123, 110, 73, 0, 85, 87, 105, 2, 73, 17, 12, 107, 104, 4, 28, 28, 85, 75, 14, 6, 1, 11, 108, 8, 38, 99, 126, 21, 119, 87, 115, 45, 96, 103, 34, 81, 79, 0, 126, 127, 32, 38, 64, 50, 77, 14, 90, 84, 107, 30, 102, 77, 8, 90, 52, 55, 67, 105, 47, 98, 101, 45, 104, 79, 14, 68, 52, 68, 34, 33, 115, 28, 21, 19, 39, 69, 29, 19, 28, 17, 35, 0, 22]
+  Genotype length:  105
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--TE(Claisen)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(CC(C(C(O)=CC(C)C(C(C(O)=O)C)O)=O)N)N)(C(C(C1(C(C(CC(C1)N)OC)=O)O)=O)CC)=O
+  Fitness:   0.7290952
+
+
+Generation #44 (Elapsed time: 277.109s): Fitness min:0.00 avg:0.14 max:0.83
+  Best Individual 'magenta-kiwi-yeti':
+  Genotype:  [14, 34, 48, 44, 110, 13, 3, 32, 58, 44, 125, 123, 28, 20, 62, 109, 113, 32, 103, 82, 110, 22, 122, 78, 112, 102, 80, 105, 105, 75, 99, 11, 79, 48, 26, 106, 4, 14, 16, 71, 73, 22, 53, 121, 92, 104, 28, 118, 42, 82, 125, 6, 42, 33, 38, 77, 5, 107, 79, 15, 20, 52, 104, 36, 79, 47, 70, 78, 51, 119, 99, 0, 31, 54, 106, 70, 12, 35, 4, 127, 31, 105, 114, 42, 115, 78, 35, 35, 57, 0, 14, 70, 107, 82, 32, 92, 98, 89, 102, 75, 71]
+  Genotype length:  101
+  Used codons:  16
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Hydrolysis)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(C(O)=O)C)(C(C=CCC(C(O)=O)N)CC)=O
+  Fitness:   0.8349832
+
+
+Generation #45 (Elapsed time: 246.205s): Fitness min:0.00 avg:0.17 max:0.83
+  Best Individual 'magenta-kiwi-yeti':
+  Genotype:  [14, 34, 48, 44, 110, 13, 3, 32, 58, 44, 125, 123, 28, 20, 62, 109, 113, 32, 103, 82, 110, 22, 122, 78, 112, 102, 80, 105, 105, 75, 99, 11, 79, 48, 26, 106, 4, 14, 16, 71, 73, 22, 53, 121, 92, 104, 28, 118, 42, 82, 125, 6, 42, 33, 38, 77, 5, 107, 79, 15, 20, 52, 104, 36, 79, 47, 70, 78, 51, 119, 99, 0, 31, 54, 106, 70, 12, 35, 4, 127, 31, 105, 114, 42, 115, 78, 35, 35, 57, 0, 14, 70, 107, 82, 32, 92, 98, 89, 102, 75, 71]
+  Genotype length:  101
+  Used codons:  16
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Hydrolysis)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(C(O)=O)C)(C(C=CCC(C(O)=O)N)CC)=O
+  Fitness:   0.8349832
+
+
+Generation #46 (Elapsed time: 303.488s): Fitness min:0.00 avg:0.17 max:0.83
+  Best Individual 'magenta-kiwi-yeti':
+  Genotype:  [14, 34, 48, 44, 110, 13, 3, 32, 58, 44, 125, 123, 28, 20, 62, 109, 113, 32, 103, 82, 110, 22, 122, 78, 112, 102, 80, 105, 105, 75, 99, 11, 79, 48, 26, 106, 4, 14, 16, 71, 73, 22, 53, 121, 92, 104, 28, 118, 42, 82, 125, 6, 42, 33, 38, 77, 5, 107, 79, 15, 20, 52, 104, 36, 79, 47, 70, 78, 51, 119, 99, 0, 31, 54, 106, 70, 12, 35, 4, 127, 31, 105, 114, 42, 115, 78, 35, 35, 57, 0, 14, 70, 107, 82, 32, 92, 98, 89, 102, 75, 71]
+  Genotype length:  101
+  Used codons:  16
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Hydrolysis)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(C(O)=O)C)(C(C=CCC(C(O)=O)N)CC)=O
+  Fitness:   0.8349832
+
+
+Generation #47 (Elapsed time: 267.687s): Fitness min:0.00 avg:0.15 max:0.83
+  Best Individual 'magenta-kiwi-yeti':
+  Genotype:  [14, 34, 48, 44, 110, 13, 3, 32, 58, 44, 125, 123, 28, 20, 62, 109, 113, 32, 103, 82, 110, 22, 122, 78, 112, 102, 80, 105, 105, 75, 99, 11, 79, 48, 26, 106, 4, 14, 16, 71, 73, 22, 53, 121, 92, 104, 28, 118, 42, 82, 125, 6, 42, 33, 38, 77, 5, 107, 79, 15, 20, 52, 104, 36, 79, 47, 70, 78, 51, 119, 99, 0, 31, 54, 106, 70, 12, 35, 4, 127, 31, 105, 114, 42, 115, 78, 35, 35, 57, 0, 14, 70, 107, 82, 32, 92, 98, 89, 102, 75, 71]
+  Genotype length:  101
+  Used codons:  16
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--TE(Hydrolysis)
+  Generated molecules: 1
+  Best molecule (SMILES): C(C(C(O)=O)C)(C(C=CCC(C(O)=O)N)CC)=O
+  Fitness:   0.8349832
+
+
+Generation #48 (Elapsed time: 298.327s): Fitness min:0.00 avg:0.13 max:0.84
+  Best Individual 'white-apple-yeti':
+  Genotype:  [71, 70, 95, 21, 39, 127, 59, 58, 98, 121, 113, 84, 19, 113, 63, 36, 16, 34, 69, 65, 126, 126, 2, 117, 110, 73, 102, 73, 8, 17, 87, 12, 107, 104, 28, 82, 14, 75, 28, 6, 1, 22, 33, 126, 38, 99, 6, 21, 119, 103, 45, 38, 103, 34, 81, 79, 67, 126, 127, 64, 38, 20, 77, 14, 90, 88, 14, 30, 102, 20, 105, 7, 52, 99, 67, 105, 98, 101, 45, 104, 14, 68, 78, 34, 33, 44, 115, 28, 117, 76, 39, 69, 29, 19, 17, 65, 0]
+  Genotype length:  97
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Chlorethylmalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C1(C(C(C(C(C(C(C(C(C(CCCl)=CC(N)=CC(O)=CC(C(C(C(O1)=O)C)O)N)O)N)=O)O)=O)O)=O)CC)=O
+  Fitness:   0.8357668
+
+
+Generation #49 (Elapsed time: 301.267s): Fitness min:0.00 avg:0.17 max:0.84
+  Best Individual 'green-jackfruit-yeti':
+  Genotype:  [71, 70, 95, 21, 39, 127, 59, 58, 98, 121, 113, 84, 19, 113, 63, 36, 16, 34, 69, 65, 126, 126, 2, 117, 110, 73, 102, 73, 8, 17, 87, 12, 107, 104, 28, 82, 14, 75, 28, 6, 1, 22, 33, 126, 38, 99, 6, 21, 119, 103, 45, 38, 103, 34, 81, 79, 67, 126, 127, 64, 38, 20, 77, 14, 90, 88, 14, 30, 102, 20, 105, 7, 52, 99, 67, 105, 98, 101, 45, 104, 14, 78, 34, 33, 44, 115, 28, 117, 76, 39, 69, 29, 19, 17, 65, 0]
+  Genotype length:  96
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Chlorethylmalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C1(C(C(C(C(C(C(C(C(C(CCCl)=CC(N)=CC(O)=CC(C(C(C(O1)=O)C)O)N)O)N)=O)O)=O)O)=O)CC)=O
+  Fitness:   0.8357668

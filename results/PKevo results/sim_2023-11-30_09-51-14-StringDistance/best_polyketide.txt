@@ -1,0 +1,64 @@
+Best individual:
+Individual 'green-guava-leprechaun':
+  Genotype:  [63, 76, 123, 13, 65, 93, 26, 37, 39, 21, 20, 84, 77, 101, 55, 5, 70, 74, 93, 100, 96, 4, 28, 29, 7, 39, 92, 66, 107, 85, 97, 16, 28, 90, 66, 75, 58, 98, 33, 16, 12, 42, 56, 23, 46, 29, 37, 22, 47, 112, 49, 12, 76, 102, 26, 39, 41, 39, 43, 100, 117, 107, 80, 97, 59, 67, 79, 14, 48, 125, 54, 114, 27, 117, 108, 29, 23, 80, 87, 62, 39, 125, 72, 43, 116, 29, 51, 124, 26, 78, 83, 13, 17, 22, 86, 13, 104, 96]
+  Genotype length:  98
+  Used codons:  36
+  Phenotype: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 0
+  Best molecule (SMILES): None
+  Fitness:   9
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(AHBA)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ └── ACP
+├── 6. Module
+│ ├── KS
+│ ├── AT(Malonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 7. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+└── 8. Module
+│ └── TE(Macrolactonization)
+
+Number of Modules: 9
+Number of Domains: 38
+
+

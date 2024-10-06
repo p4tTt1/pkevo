@@ -1,0 +1,52 @@
+Best individual:
+Individual 'blue-raspberry-pegasus':
+  Genotype:  [81, 106, 127, 112, 59, 21, 83, 108, 100, 69, 97, 90, 115, 44, 20, 82, 127, 36, 67, 38, 32, 51, 104, 89, 60, 21, 126, 35, 16, 56, 102, 56, 78, 102, 63, 54, 18, 107, 35, 69, 14, 5, 29, 120, 64, 22, 37, 77, 19, 31, 89, 6, 109, 104, 94, 103, 26, 34, 54, 69, 20, 54, 34, 51, 53, 39, 94, 13, 85, 44, 12, 61, 32, 109, 20, 37, 98, 89, 14, 5, 52, 6, 43, 8, 30, 116, 92, 114, 16, 72, 112, 34, 83, 14, 117, 50, 48, 105, 91, 0, 97, 124, 89, 101, 63]
+  Genotype length:  105
+  Used codons:  32
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-ACP--KS-AT(Methoxymalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--TE(Claisen)
+  Generated molecules: 2
+  Best molecule (SMILES): C(C(C)CC(C(C(C=C(C(C1C(C(C(C(C1=O)OC)=O)N)=O)=O)C)C)O)N)(O)=O
+  Fitness:   0.8344413
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Malonyl)
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ └── ACP
+├── 6. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ └── ACP
+└── 7. Module
+│ └── TE(Claisen)
+
+Number of Modules: 8
+Number of Domains: 27
+
+

@@ -1,0 +1,6 @@
+duration: roughly 11 hours
+len(self.unique_genomes)=12488
+self.counter_total_ind=0 (but 50 generations * 250 inds = 12500
+self.counter_eval_fit=0
+self.counter_released_mols=19319
+

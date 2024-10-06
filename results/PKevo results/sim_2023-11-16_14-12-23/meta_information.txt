@@ -1,0 +1,30 @@
+Executed command: pkevo.py
+=================================
+
+Values used for Evolution Config:
+=================================
+CODON_SIZE: 127
+CROSSOVER_OPERATOR: twopoint_crossover
+CROSSOVER_PROBABILITY: 0.9
+DELETION_PROBABILITY: 0.2
+ELITE_SIZE: 1
+GENERATIONS: 30
+GENERATION_SIZE: 50
+GENOME_LENGTH: 100
+GRAMMAR_FILE_NAME: pks_simplified.bnf
+INSERTION_PROBABILITY: 0.2
+MUTATION_PROBABILITY: 0.01
+POPULATION_SIZE: 50
+REPLACEMENT_STRATEGY: generational_replacement
+SELECTION_STRATEGY: truncation_selection
+VARIABLE_LENGTH: False
+WITHIN_CODING_REGION: True
+
+Values used for Search Config:
+==============================
+BREAK_AFTER: None
+FITNESS_THRESHOLD: None
+TARGET_PHARMACOPHORE_FILE: gdm_pharmacophore_relaxed.pmz
+TARGET_SEQUENCE: AT(AHBA)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Methoxymalonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Methoxymalonyl)-KR-ACP--KS-AT(Malonyl)-KR-DH-ER-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--TE(Macrolactonization)
+TARGET_SMILES: CC1CC(C(C(C=C(C(C(C=CC=C(C(=O)NC2=CC(=O)C(=C(C1)C2=O)OC)C)OC)OC(=O)N)C)C)O)OC
+

@@ -1,0 +1,42 @@
+Best individual:
+Individual 'black-grape-cyclops':
+  Genotype:  [56, 16, 78, 62, 89, 30, 70, 83, 59, 90, 20, 102, 67, 29, 73, 21, 62, 67, 10, 65, 16, 117, 100, 72, 20, 21, 6, 86, 66, 123, 94, 89, 54, 103, 0, 76, 44, 74, 20, 24, 54, 7, 75, 104, 56, 57, 105, 14, 112, 55, 127, 93, 35, 88, 124, 63, 14, 11, 50, 82, 84, 46, 87, 93, 67, 106, 16, 48, 100, 3, 66, 5, 37, 37, 55, 8, 3, 33, 117, 21, 77, 16, 88, 111, 122, 111, 30, 24, 71, 39, 47, 3, 104, 83, 117, 29, 109, 46, 105, 123]
+  Genotype length:  100
+  Used codons:  18
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-ACP--KS-AT(Methylmalonyl)-KR-DH-ER-ACP--KS-AT(Hydroxymalonyl)-KR-ACP--TE(Macrolactonization)
+  Generated molecules: 3
+  Best molecule (SMILES): C(C(CC(C)C1C(C(O1)=O)O)N)(C(C(C(C(O)=O)C)=O)C)=O
+  Fitness:   0.8456788
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ ├── ER
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ ├── KR
+│ └── ACP
+└── 5. Module
+│ └── TE(Macrolactonization)
+
+Number of Modules: 6
+Number of Domains: 19
+
+

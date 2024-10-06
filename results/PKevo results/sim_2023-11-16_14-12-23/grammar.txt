@@ -1,0 +1,31 @@
+Grammar with following 22 non-terminals, 39 terminals and 22 rules.
+
+Non-terminals:
+<Termination_Module>, <S>, <KR_Domain>, <SAT_Domain>, <KS_Domain>, <AT_Domain>, <Elongation_Domains>, <DH_Domain>, <El_Module>, <Starter_Unit>, <Beta_Processing_Domains>, <Number>, <Termination_Reaction>, <Extender_Unit>, <TE_Domain>, <El_Process>, <Loading_Module>, <_>, <ER_Domain>, <ACP_Domain>, <Poss_El>, <__>
+
+Terminals:
+, Isobutyryl, 1, Methoxymalonyl, Chlorethylmalonyl, KR, Ethylmalonyl, 2-Methylbutyryl, KS, --, Malonyl, Cyclization(, Butyryl, Hydrolysis, Aminomalonyl, Benzoyl, ACP, Hexanoyl, Acetyl, Malonamyl, 2, Methylmalonyl, Hydroxymalonyl, Claisen, -, Cyclohexylcarbonyl, DH, Propionyl, ER, TE(, 3, 3-Methylbutyryl, Macrolactamization, ), AT(, Macrolactonization, Acetoacetyl, Coumaroyl, AHBA
+
+Rules:
+  1. Rule: <S> -> [[('<Loading_Module>', 'NT'), ('<__>', 'NT'), ('<El_Module>', 'NT'), ('<__>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<El_Process>', 'NT'), ('<Termination_Module>', 'NT')], [('<Loading_Module>', 'NT'), ('<__>', 'NT'), ('<El_Module>', 'NT'), ('<__>', 'NT'), ('<El_Module>', 'NT'), ('<__>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<Poss_El>', 'NT'), ('<El_Process>', 'NT'), ('<Termination_Module>', 'NT')]]
+  2. Rule: <El_Process> -> [[('<Poss_El>', 'NT')], [('<Poss_El>', 'NT'), ('<El_Process>', 'NT')]]
+  3. Rule: <Poss_El> -> [[('', 'T')], [('<El_Module>', 'NT'), ('<__>', 'NT')]]
+  4. Rule: <Loading_Module> -> [[('<SAT_Domain>', 'NT'), ('<_>', 'NT'), ('<ACP_Domain>', 'NT')]]
+  5. Rule: <SAT_Domain> -> [[('AT(', 'T'), ('<Starter_Unit>', 'NT'), (')', 'T')]]
+  6. Rule: <Starter_Unit> -> [[('2-Methylbutyryl', 'T')], [('3-Methylbutyryl', 'T')], [('Acetoacetyl', 'T')], [('Acetyl', 'T')], [('AHBA', 'T')], [('Benzoyl', 'T')], [('Butyryl', 'T')], [('Coumaroyl', 'T')], [('Cyclohexylcarbonyl', 'T')], [('Ethylmalonyl', 'T')], [('Hexanoyl', 'T')], [('Hydroxymalonyl', 'T')], [('Isobutyryl', 'T')], [('Malonamyl', 'T')], [('Malonyl', 'T')], [('Methoxymalonyl', 'T')], [('Methylmalonyl', 'T')], [('Propionyl', 'T')]]
+  7. Rule: <ACP_Domain> -> [[('ACP', 'T')]]
+  8. Rule: <El_Module> -> [[('<Elongation_Domains>', 'NT'), ('<_>', 'NT'), ('<ACP_Domain>', 'NT')], [('<Elongation_Domains>', 'NT'), ('<_>', 'NT'), ('<Beta_Processing_Domains>', 'NT'), ('<_>', 'NT'), ('<ACP_Domain>', 'NT')]]
+  9. Rule: <Elongation_Domains> -> [[('<KS_Domain>', 'NT'), ('<_>', 'NT'), ('<AT_Domain>', 'NT')]]
+  10. Rule: <Beta_Processing_Domains> -> [[('<KR_Domain>', 'NT')], [('<KR_Domain>', 'NT'), ('<_>', 'NT'), ('<DH_Domain>', 'NT')], [('<KR_Domain>', 'NT'), ('<_>', 'NT'), ('<DH_Domain>', 'NT'), ('<_>', 'NT'), ('<ER_Domain>', 'NT')]]
+  11. Rule: <KS_Domain> -> [[('KS', 'T')]]
+  12. Rule: <AT_Domain> -> [[('AT(', 'T'), ('<Extender_Unit>', 'NT'), (')', 'T')]]
+  13. Rule: <Extender_Unit> -> [[('Aminomalonyl', 'T')], [('Chlorethylmalonyl', 'T')], [('Ethylmalonyl', 'T')], [('Hydroxymalonyl', 'T')], [('Malonyl', 'T')], [('Methoxymalonyl', 'T')], [('Methylmalonyl', 'T')]]
+  14. Rule: <KR_Domain> -> [[('KR', 'T')]]
+  15. Rule: <DH_Domain> -> [[('DH', 'T')]]
+  16. Rule: <ER_Domain> -> [[('ER', 'T')]]
+  17. Rule: <Termination_Module> -> [[('<TE_Domain>', 'NT')], [('<TE_Domain>', 'NT'), ('<_>', 'NT'), ('Cyclization(', 'T'), ('<Number>', 'NT'), (')', 'T')]]
+  18. Rule: <TE_Domain> -> [[('TE(', 'T'), ('<Termination_Reaction>', 'NT'), (')', 'T')]]
+  19. Rule: <Termination_Reaction> -> [[('Claisen', 'T')], [('Hydrolysis', 'T')], [('Macrolactamization', 'T')], [('Macrolactonization', 'T')]]
+  20. Rule: <Number> -> [[('1', 'T')], [('2', 'T')], [('3', 'T')]]
+  21. Rule: <__> -> [[('--', 'T')]]
+  22. Rule: <_> -> [[('-', 'T')]]

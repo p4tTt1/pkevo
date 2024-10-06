@@ -1,0 +1,48 @@
+Best individual:
+Individual 'white-nectarine-harpy':
+  Genotype:  [87, 70, 60, 83, 7, 122, 30, 80, 68, 33, 15, 76, 127, 62, 52, 122, 124, 18, 18, 54, 33, 123, 18, 18, 120, 109, 109, 19, 106, 87, 45, 55, 115, 99, 37, 9, 27, 59, 117, 38, 127, 102, 126, 27, 117, 11, 86, 92, 36, 90, 43, 18, 87, 60, 125, 98, 64, 108, 73, 39, 18, 62, 42, 99, 74, 10, 77, 113, 4, 119, 49, 18, 33, 13, 91, 124, 62, 110, 85, 121, 126, 114, 72, 79, 122, 107, 110, 15, 79, 98, 4, 77, 10, 50, 104, 115, 0, 91, 38, 117]
+  Genotype length:  100
+  Used codons:  30
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Methylmalonyl)-ACP--KS-AT(Hydroxymalonyl)-KR-ACP--KS-AT(Methylmalonyl)-KR-DH-ACP--KS-AT(Malonyl)-KR-ACP--KS-AT(Methoxymalonyl)-KR-DH-ACP--TE(Macrolactonization)
+  Generated molecules: 4
+  Best molecule (SMILES): C(C(C(C(C)C(C(C=C(C1CC=C(C(O1)=O)OC)C)O)O)=O)C)(O)=O
+  Fitness:   0.8379549
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ ├── KR
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Methylmalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Malonyl)
+│ ├── KR
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Methoxymalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+└── 6. Module
+│ └── TE(Macrolactonization)
+
+Number of Modules: 7
+Number of Domains: 24
+
+

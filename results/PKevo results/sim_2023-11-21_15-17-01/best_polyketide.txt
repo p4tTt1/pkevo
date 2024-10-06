@@ -1,0 +1,62 @@
+Best individual:
+Individual 'white-apple-yeti':
+  Genotype:  [71, 70, 95, 21, 39, 127, 59, 58, 98, 121, 113, 84, 19, 113, 63, 36, 16, 34, 69, 65, 126, 126, 2, 117, 110, 73, 102, 73, 8, 17, 87, 12, 107, 104, 28, 82, 14, 75, 28, 6, 1, 22, 33, 126, 38, 99, 6, 21, 119, 103, 45, 38, 103, 34, 81, 79, 67, 126, 127, 64, 38, 20, 77, 14, 90, 88, 14, 30, 102, 20, 105, 7, 52, 99, 67, 105, 98, 101, 45, 104, 14, 68, 78, 34, 33, 44, 115, 28, 117, 76, 39, 69, 29, 19, 17, 65, 0]
+  Genotype length:  97
+  Used codons:  38
+  Phenotype: AT(Methylmalonyl)-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-DH-ACP--KS-AT(Chlorethylmalonyl)-KR-DH-ACP--KS-AT(Aminomalonyl)-KR-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Hydroxymalonyl)-ACP--KS-AT(Ethylmalonyl)-ACP--TE(Macrolactonization)
+  Generated molecules: 6
+  Best molecule (SMILES): C1(C(C(C(C(C(C(C(C(C(CCCl)=CC(N)=CC(O)=CC(C(C(C(O1)=O)C)O)N)O)N)=O)O)=O)O)=O)CC)=O
+  Fitness:   0.8357668
+
+PKS Architecture: 
+.
+├── Loading Module
+│ ├── AT(Methylmalonyl)
+│ └── ACP
+├── 1. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ ├── KR
+│ └── ACP
+├── 2. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 3. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 4. Module
+│ ├── KS
+│ ├── AT(Chlorethylmalonyl)
+│ ├── KR
+│ ├── DH
+│ └── ACP
+├── 5. Module
+│ ├── KS
+│ ├── AT(Aminomalonyl)
+│ ├── KR
+│ └── ACP
+├── 6. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 7. Module
+│ ├── KS
+│ ├── AT(Hydroxymalonyl)
+│ └── ACP
+├── 8. Module
+│ ├── KS
+│ ├── AT(Ethylmalonyl)
+│ └── ACP
+└── 9. Module
+│ └── TE(Macrolactonization)
+
+Number of Modules: 10
+Number of Domains: 35
+
+
